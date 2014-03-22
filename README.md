@@ -113,8 +113,10 @@ For example, there's currently a very bad bug with Google's archive files.
 > message with Message-ID: xxxxxxx.xxxxxxxxxxxxxxxxxx.chat@gmail.com is
 > missing.
 
-In my case, 74 chat messages are missing out of a total of 5361
-(1.4%). I haven't checked if the same problem exists for mail messages.
+This seems to be a problem with old-style chats, and it's difficult to
+overstate the severity. In my case, over 30% of my 2843 old-style
+conversations are missing from the archive. This isn't a "bug", it's
+completely broken software.
 
 Another example: have you looked at your recent Google chats in Apple Mail?
 Each line you or your buddy typed is a separate message, and there's no way
